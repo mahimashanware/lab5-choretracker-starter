@@ -61,11 +61,22 @@
       ],
       "/Users/mahimashanware/Desktop/junior/sem2/67373 is consulting/hws/lab5-choretracker-starter/app/models/chore.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/mahimashanware/Desktop/junior/sem2/67373 is consulting/hws/lab5-choretracker-starter/app/models/task.rb": [
-        0,
-        0
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        3,
+        2,
+        null
       ],
       "/Users/mahimashanware/Desktop/junior/sem2/67373 is consulting/hws/lab5-choretracker-starter/app/controllers/application_controller.rb": [
         0,
@@ -319,6 +330,6 @@
         0
       ]
     },
-    "timestamp": 1612750473
+    "timestamp": 1612753231
   }
 }
